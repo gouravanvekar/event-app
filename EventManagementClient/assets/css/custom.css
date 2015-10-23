@@ -479,3 +479,11 @@ body {
 {
     padding-bottom: 30px;
 }
+
+.top-offset{
+    margin-top: 80px;
+}
+
+.event-header{    
+    width: 800px;
+}
